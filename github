@@ -1,0 +1,15 @@
+What is a Fork?
+
+A fork is a personal copy of someone else's repository under your own GitHub account.
+
+Purpose:
+
+Contribute to open-source projects.
+Experiment without affecting the original repository.
+Create your own version of a project.
+
+             Fork             vs                      Clone
+
+Creates a copy on GitHub	            Creates a copy on your local machine
+Stored in your GitHub account	               Stored on your computer
+Used for contributing to others' projects	Used for local development
